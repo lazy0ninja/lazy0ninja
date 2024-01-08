@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning data science and its applications in indsutries
 - 💬 Ask me about Japan or photography
 - 📫 How to reach me: instagram or linkedin!
-- ⚡ Hobbies: Photography (check out my insta haha), squash, biking, anime, video games
+- ⚡ Hobbies: Photography, squash, biking, anime, video games
 
 - Find my portfolio here: https://lazy0ninja.github.io/portfolio/
 
